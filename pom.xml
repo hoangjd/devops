@@ -25,12 +25,12 @@
 		<connection>scm:git:git@github.com:hoangjd/devops.git</connection>
 		<developerConnection>scm:git:git@github.com:hoangjd/devops.git</developerConnection>
 		<url>git@github.com:hoangjd/devops.git</url>
-		<tag>v1.2.2</tag>
+		<tag>v1.2.1</tag>
 	</scm>
 
 	<groupId>com.example</groupId>
 	<artifactId>devops</artifactId>
-	<version>1.2.2</version>
+	<version>1.2.3-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<name>devops</name>
 	<description>devops demo project</description>
